@@ -1,0 +1,134 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders to ignore
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project files
+*.vcxproj.user
+*.vcxproj.filters
+
+# Compiled object files
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.dylib
+*.lib
+*.a
+*.la
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Static Analysis
+*.ll
+*.analysis
+
+# Intermediate files
+*.ilk
+*.idb
+
+# Output files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86
+*.dll
+*.dSYM/
+*.class
+*.war
+*.jar
+*.deb
+*.dSYM
+*.dSYM.zip
+*.i*86
+*.x86
+
+# Application logs
+*.log
+
+# Virtual machine image files
+*.vbox
+*.vbox-prev
+*.vdi
+
+# Documentation
+*.pdf
+
+# Static Site Generators
+_site
+
+# Distribution / packaging
+*.dmg
+*.exe
+*.ipa
+*.apk
+
+# IDE specific ignore patterns
+# Rider
+.idea/
+*.rider/
+
+# Eclipse
+.project
+.cproject
+
+# JetBrains specific ignore patterns
+.idea/
+*.iml
+*.ipr
+
+# macOS specific ignore patterns
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific ignore patterns
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio specific ignore patterns
+.vs/
+.vscode/
+.vscode-test/
+*.code-workspace
+*.vcxproj.user
+*.pdb
+*.filters
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+ipch/
+obj/
+bin/
+tut.vcxproj.*
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Code Analysis files
+*.ruleset
+*.rulemap
+*.sdl
+*.wrn
